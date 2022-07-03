@@ -22,5 +22,8 @@ This is an MVC tech blog application. It allows readers to read blog posts from 
 * connect-session-sequelize
 * heroku
 
+### Dployed Application
+[https://avandefeniks-tech-blog.herokuapp.com/](https://avandefeniks-tech-blog.herokuapp.com/)
+
 ### Created by
 Angel Van de Feniks
