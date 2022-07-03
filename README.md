@@ -4,6 +4,12 @@
 ## Description
 This is an MVC tech blog application. It allows readers to read blog posts from other readers and comment on their posts. It allows users the ability to create, edit and delete blogs via their dashboard. 
 
+### Comment Page Example
+![](./assets/images/TechBlogComment.jpg)
+
+### Dashboard Example
+![](./assets/images/TechBlogDashboard.jpg)
+
 ## Technologies Used
 * Node.js
 * Express.js
